@@ -7,7 +7,8 @@ Welcome to the repository for the **Smartphone Market Analysis** project! This e
 ## 📊 Visual Dashboard Preview
 I designed the interactive dashboard using a high-contrast, optimized **Dark Mode** "app-like" interface. The layout tracks real-time specification values, market performance medians, and hardware cluster metrics.
 
-![Smartphone Market Analysis Power BI Dashboard](1000117854_2.jpg)
+![Smartphone Market Analysis Power BI Dashboard]
+<img width="1374" height="739" alt="17798775645795530348037900694507" src="https://github.com/user-attachments/assets/f920b785-8d2e-43ef-a2f4-030e3a4bd4fb" />
 
 
 
